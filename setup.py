@@ -11,5 +11,10 @@ setup(
             "ultralytics>=8.0",
             "opencv-python"
             ],
+        classifiers=[
+            "Programming Language :: Python :: 3", 
+            "License :: OSI Approved :: MIT Licesnse", 
+            "Operating System :: OS Independent",
+            ],
         python_requires='>=3.8',
         )
