@@ -1,0 +1,3 @@
+venv/
+tests/dog_classifier.pk1
+fastyolo/__pycache__/

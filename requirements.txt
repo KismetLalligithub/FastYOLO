@@ -1,0 +1,4 @@
+ultralytics>=8.0
+fastai>=2.7
+opencv-python
+Pillow
